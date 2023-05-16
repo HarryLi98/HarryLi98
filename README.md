@@ -1,4 +1,5 @@
-### I work as a model developer at the Bank of England and am studying part-time for a Masters in Applied Mathematics at Imperial College London (2021-2023). My previous Masters was in Econometrics and Mathematical Economics at The London School of Economics (2019-2020), and I am interested in quantitative economic modelling.
+### About me
+I work as a model developer at the Bank of England and am studying part-time for a Masters in Applied Mathematics at Imperial College London (2021-2023). My previous Masters was in Econometrics and Mathematical Economics at The London School of Economics (2019-2020), and I am interested in quantitative economic modelling.
 
 I mainly program in R, Python, MATLAB and LaTeX.
 <!--
