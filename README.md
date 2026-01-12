@@ -1,4 +1,4 @@
-I work as a model developer at the Bank of England. I have a Master's in Econometrics and Mathematical Economics from The London School of Economics (2019-2020) and a Masters in Applied Mathematics from Imperial College London (2021-2023).
+I work as a model developer at the Bank of England. I have a Master's in Econometrics and Mathematical Economics from The London School of Economics (2019-2020) and a Master's in Applied Mathematics from Imperial College London (2021-2023).
 
 I mainly program in R, Python, MATLAB and LaTeX.
 <!--
